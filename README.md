@@ -1,7 +1,7 @@
 ## Hi, My name is Kun 👋
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,dotnet,cs,visualstudio,vscode&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,dotnet,cs,visualstudio,vscode,git,gitlab&theme=dark&perline=6)](https://skillicons.dev)
 
 <!--
 **Wonsle/Wonsle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
